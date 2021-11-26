@@ -1,2 +1,16 @@
-# birds image classification
-Collection of Birds Images
+# birds image multiclass-classification
+A Photographic Collection of Birds for Multi-class Classification
+
+Dataset contains JPG images of varying dimensions.
+
+`birds_annotation.csv` contains `file_name` that corresponds to the image file names and `label` that corresponds to multi-classes.
+
+The four classes described here are:
+1. `flying`
+2. `standing on surface`
+3. `standing at elevation`
+4. `swimming`
+
+Annotations are made manually.
+
+`birds_labels.jpg` is a pie-chart describing the label-balance.
