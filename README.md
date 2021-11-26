@@ -14,3 +14,5 @@ The four classes described here are:
 Annotations are made manually.
 
 `birds_labels.jpg` is a pie-chart describing the label-balance.
+
+![pie](https://raw.githubusercontent.com/RajkumarGalaxy/birds/main/birds_labels.jpg)
