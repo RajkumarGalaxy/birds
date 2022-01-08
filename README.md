@@ -7,8 +7,8 @@ Dataset contains JPG images of varying dimensions.
 
 The four classes described here are:
 1. `flying`
-2. `standing on surface`
-3. `standing at elevation`
+2. `standing at elevation`
+3. `standing on land`
 4. `swimming`
 
 Annotations are made manually.
